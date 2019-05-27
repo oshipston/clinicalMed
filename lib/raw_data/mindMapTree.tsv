@@ -1,0 +1,108 @@
+id	title	title_ref	children	parents	parents_id	description	synonym	neuroSynth_assoc_brain_networks	brodmann_area	task_domain_ic	task_domain_wm	task_domain_cf	task_age_result	task_age_ref	pathology	patho_ref
+0	Brain Functions															
+1	Arousal			Brain Functions												
+2	Attention			Brain Functions												
+3	Consciousness			Brain Functions												
+4	Decision Making			Brain Functions												
+5	Natural Language			Brain Functions												
+6	Learning			Brain Functions												
+7	Motor Coordination			Brain Functions												
+8	Perception			Brain Functions												
+9	Thought			Brain Functions												
+10	Memory			Brain Functions												
+11	Topographic Memory			Memory				['Medial Entorhinal Cortex']	"[28, 34]"							
+12	Short-term Memory			Memory		Storing information no longer perceptually present.			['HIP']							
+13	Long-term Memory			Memory				['Globally Distributed']								
+14	Implicit Memory			Long-term Memory			Procedural Memory									
+15	Explicit Memory			Long-term Memory			"['Declarative Memory', 'Relational Memory']"	['Medial Prefrontal Cortex']								
+16	Semantic Memory			Explicit Memory												
+17	Episodic Memory			Explicit Memory												
+18	Executive Functions			Brain Functions				['?DMN']								
+19	Metacognitive	"['Damasio, Tranel & Damasio, 1990']"		Executive Functions				['Dorsolateral Prefrontal Cortex']	"[8, 9, 46]"						['Dorsolateral Syndrome']	['Cummings (1993)']
+20	Emotional/motivational			Executive Functions				['Orbitofrontal Cortex']	"[10, 11, 12/47, 13, 14]"						"['Orbitofrontal syndrome', 'Medial Frontal Syndrome']"	"['Stuss & Knight, 2002']"
+21	Working Memory			Metacognitive		Working with information no longer perceptually present.		"['Dorsolateral Prefrontal Cortex', 'Superior Parietal Cortex']"	"[8, 9, 46, 5, 7]"							
+22	Maintenance	"['Crone et al, 2006']"		Working Memory												
+23	Manipulation	"['Crone et al, 2006']"		Working Memory			"Particularly supported by delay-activation of dlPFC and Sup.Parietal Cx which appears to only aries in adolscence, children find this task disproportionately hard compared to maintenance alone."									
+24	Capacity-growth Hypothesis			Working Memory												
+25	Verbal Working Memory			Working Memory												
+26	Visuospatial Working Memory			Working Memory												
+27	Cognitive Flexibility			Metacognitive		Comes on later in development										
+28	Set-shifting			Cognitive Flexibility												
+29	Planning			Metacognitive												
+30	Problem Solving			Metacognitive												
+31	Reasoning			Metacognitive												
+32	Inhibitory Control			Emotional/motivational												
+33	Inhibitory Control of Attention			Emotional/motivational						1						
+34	Selective Attention			Emotional/motivational		May be overriden by exogenous/automatic/stimnulus-driven attention.				1						
+35	Cognitive Inhibition			Emotional/motivational		The suppression of prepotent cortical responses to stimuli. Intentional forgetting. Discussed commonly in aiding working memory.				1						
+36	Mind-wandering			Emotional/motivational												
+37	Self-Control			Emotional/motivational						1						
+38	Delayed-gratification			Emotional/motivational						1						
+39	Tasks			Brain Functions												
+40	A-not-B			Tasks												
+41	Object Retrieval			Tasks												
+42	Lazy Susan			Tasks												
+43	Spatial-incompatibility			Tasks												
+44	Day-night			Tasks												
+45	Ditty Delay			Tasks												
+46	Luria's Tapping Test			Tasks												
+47	Conditional Discrimination			Tasks												
+48	Appearance-reality			Tasks												
+49	Theory-of-mind			Tasks												
+50	False-belief			Tasks												
+51	Sally-Anne			Tasks												
+52	False-photograph			Tasks												
+53	Location-change			Tasks												
+54	Go-no-go			Tasks						1						
+55	Piaget Search			Tasks			A-not-B				1					
+56	Distraction-during-delay			Tasks												
+57	Liquid-conservation			Tasks												
+58	Perspective-taking			Tasks												
+59	Windows			Tasks												
+60	Directed-forgetting			Tasks												
+61	Anti-saccade			Tasks						1						
+62	Directional Stroop			Tasks												
+63	Counting Span			Tasks												
+64	Spatial Span			Tasks												
+65	Compound stimulus visual information			Tasks												
+66	Stroop			Tasks						1						
+67	Simon			Tasks						1	1					
+68	Flanker			Tasks						1						
+69	Delay-of-gratification			Tasks						1						
+70	Stop-signal			Tasks						1						
+71	Dots			Tasks			Hearts and Flowers				1					
+72	Duncan Plus-minus			Tasks						1	1					
+73	Spatial Stroop			Tasks						1						
+74	Forward-digit Span			Tasks												
+75	Backward-digit Span			Tasks		Limited if performed visually.					1					
+76	Corsi Block test			Tasks							1					
+77	Automated Working Memory Battery			Tasks							1					
+78	CANTAB Battery			Tasks							1					
+79	Bialystok's Reordering			Tasks							1					
+80	Self-ordered Pointing			Tasks							1					
+81	Working memory span			Tasks							1					
+82	Counting Span			Tasks							1					
+83	Reading Span			Tasks							1					
+84	N-back			Tasks			AX Continuous Performance Tasks				1					
+85	Design Fluency			Tasks			Unusual Uses					1				
+86	Verbal Fluency			Tasks								1				
+87	Category Fluency			Tasks								1				
+88	Wisconsin Card Sorting			Tasks												
+89	Task-switching			Tasks												
+90	Dimensional Change Card Sort			Tasks												
+91	Ambiguous Figures			Tasks												
+92	Tower of Hanoi			Tasks												
+93	Tower of London	"[Shallice, 1982]"		Tasks												
+94	Controlled Oral Word Association Test			Tasks												
+95	Associative Inference			Tasks												
+96	Transitive Inference			Tasks												
+97	Spatial Relational Place Learning			Tasks												
+98	Functional Neuroanatomy			Brain Functions												
+99	Yeo 7-Parcellation			Functional Neuroanatomy												
+100	Default Mode Network			Yeo 7-Parcellation												
+101	Limbic Network			Yeo 7-Parcellation												
+102	Fronto-parietal Network			Yeo 7-Parcellation												
+103	Salience Network			Yeo 7-Parcellation												
+104	Dorsal Attention Network			Yeo 7-Parcellation												
+105	Visual Network			Yeo 7-Parcellation												
+106	Somatosensory Network			Yeo 7-Parcellation												
